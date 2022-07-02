@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <a href="#exclamation-sobre">Sobre</a> | <a href="#camera-plataforma">Plataforma</a> | <a href="#star-extras">Extras</a> | <a href="#newspaper-layout">Layout</a> | <a href="#rocket-tecnologias">Tecnologias</a> | <a href="#rocket-tecnologias">Como visualizar</a> | <a href="#memo-licença">Licença</a>
+  <a href="#exclamation-sobre">Sobre</a> | <a href="#camera-plataforma">Plataforma</a> | <a href="#star-extras">Extras</a> | <a href="#newspaper-layout">Layout</a> | <a href="#rocket-tecnologias">Tecnologias</a> | <a href="#mag-como-visualizar">Como visualizar</a> | <a href="#memo-licença">Licença</a>
 </p>
 
 <img src="https://i.ibb.co/qpRZp01/event-platform-ignite-lab-leohpc-vercel-app.png">
@@ -53,7 +53,7 @@ Este projeto foi criado com as seguintes tecnologias:
 
 - TypeScript
 - React
-- Tailwind
+- TailwindCSS
 - Apollo Client
 - GraphQL
 - GraphCMS
