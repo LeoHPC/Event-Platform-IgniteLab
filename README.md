@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <br>
   <img src="https://img.shields.io/github/languages/top/leohpc/Event-Platform-IgniteLab">
   <img src="https://img.shields.io/github/issues/leohpc/Event-Platform-IgniteLab">
   <img src="https://img.shields.io/github/forks/leohpc/Event-Platform-IgniteLab">
