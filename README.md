@@ -39,6 +39,7 @@ Além do projeto visto no evento, foram adicionadas algumas funções extras, ta
 - :white_check_mark: Scrollbar personalizada
 - :white_check_mark: Bloqueio de aulas não publicadas até então
 - :white_check_mark: Correção da semântica dos dias da semana 
+- :white_check_mark: Bloqueio da página de eventos caso o usuário não seja inscrito ainda 
 - :white_check_mark: Redirecionamento para a página de eventos caso o usuário já tenha se inscrito
 - :x: Responsividade
 
