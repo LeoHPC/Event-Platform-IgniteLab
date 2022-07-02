@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://nlw-impulse-return-web.vercel.app">Demonstração</a>
+  <a href="http://event-platform-ignite-lab-leohpc.vercel.app">Demonstração</a>
 </p>
 
 <p align="center">
