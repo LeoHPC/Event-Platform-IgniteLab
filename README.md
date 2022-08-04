@@ -20,7 +20,7 @@
   <a href="#exclamation-sobre">Sobre</a> | <a href="#camera-plataforma">Plataforma</a> | <a href="#star-extras">Extras</a> | <a href="#newspaper-layout">Layout</a> | <a href="#rocket-tecnologias">Tecnologias</a> | <a href="#mag-como-visualizar">Como visualizar</a> | <a href="#memo-licença">Licença</a>
 </p>
 
-<img src="https://i.ibb.co/qpRZp01/event-platform-ignite-lab-leohpc-vercel-app.png">
+<img src="https://raw.githubusercontent.com/LeoHPC/Event-Platform-IgniteLab/main/src/assets/event-platform-ignite-lab-leohpc-vercel-app.png">
 
 ## :exclamation: Sobre
 
@@ -28,7 +28,7 @@ Este repositório é destinado a aplicação "Event Platform" desenvolvida duran
 
 ## :camera: Plataforma
 
-<img src="https://i.ibb.co/zNqMQ4G/event-platform-ignite-lab-leohpc-vercel-app-2.png" />
+<img src="https://raw.githubusercontent.com/LeoHPC/Event-Platform-IgniteLab/main/src/assets/event-platform-ignite-lab-leohpc-vercel-app-2.png" />
 
 ## :star: Extras
 
