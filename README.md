@@ -16,8 +16,6 @@
   <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=E51C44">
 </p>
 
-
-
 <p align="center">
   <a href="#exclamation-sobre">Sobre</a> | <a href="#camera-plataforma">Plataforma</a> | <a href="#star-extras">Extras</a> | <a href="#newspaper-layout">Layout</a> | <a href="#rocket-tecnologias">Tecnologias</a> | <a href="#mag-como-visualizar">Como visualizar</a> | <a href="#memo-licença">Licença</a>
 </p>
